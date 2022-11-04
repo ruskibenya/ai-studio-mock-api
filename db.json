@@ -3,10 +3,10 @@
     {"id": 1, "name": "Micky", "phone_number": "+972532208231",
         "prescription":"Aspirin", "status": "not ready"
     },
-    {"id": 2, "name": "Daffy", "phone_number": "+972532208231",
+    {"id": 2, "name": "Benjamin", "phone_number": "+972532208231",
         "prescription":"Pepto-Bismol", "status": "ready"
     },
-    {"id": 3, "name": "Goofy", "phone_number": "+972532208231"
+    {"id": 3, "name": "Richard", "phone_number": "+972532208231"
     }
   ]
 }
