@@ -1,9 +1,9 @@
 {
   "patients": [
-    {"id": 1, "name": "Micky Mouse", "phone_number": "+972532208231",
+    {"id": 1, "name": "Micky", "phone_number": "+972532208231",
         "prescriptions":["Lipitor", "Prilosec", "albuterol"], "status": "not ready"
     },
-    {"id": 2, "name": "Daffy Duck", "phone_number": "+972532208231",
+    {"id": 2, "name": "Daffy", "phone_number": "+972532208231",
         "prescriptions":["Lopressor", " Aspirin"], "status": "ready"
     },
     {"id": 3, "name": "Goofy", "phone_number": "+972532208231"
