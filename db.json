@@ -1,10 +1,10 @@
 {
   "patients": [
     {"id": 1, "name": "Micky", "phone_number": "+972532208231",
-        "prescriptions":["Lipitor", "Prilosec", "albuterol"], "status": "not ready"
+        "prescription":"Aspirin", "status": "not ready"
     },
     {"id": 2, "name": "Daffy", "phone_number": "+972532208231",
-        "prescriptions":["Lopressor", " Aspirin"], "status": "ready"
+        "prescription":"Pepto-Bismol", "status": "ready"
     },
     {"id": 3, "name": "Goofy", "phone_number": "+972532208231"
     }
