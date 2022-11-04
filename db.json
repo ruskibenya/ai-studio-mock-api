@@ -8,5 +8,19 @@
     },
     {"id": 3, "name": "Richard", "phone_number": "+972532208231"
     }
+  ],
+  "pharmacies": [
+    {
+      "country": "Israel",
+      "location": "Sheinkin St 11, Tel Aviv-Yafo, Israel"
+    },
+    {
+      "country": "France",
+      "location": "Pl. Charles de Gaulle, 75008 Paris, France"
+    },
+    {
+      "country": "United Arab Emirates",
+      "location": "1 Sheikh Mohammed bin Rashid Blvd - Downtown Dubai - Dubai - United Arab Emirates"
+    }
   ]
 }
